@@ -8,8 +8,6 @@ The objective is to identify customer segments and service characteristics assoc
 
 The analysis uses SQL to explore customer demographics, contracts, tenure, charges, payment methods, internet and phone services, and customer segments.
 
-<img width="907" height="504" alt="image" src="https://github.com/user-attachments/assets/c7f82264-9b5d-4b80-811f-1287698ba5d9" />
-
 ---
 
 ## 🎯 Business Problem
