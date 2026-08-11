@@ -1,5 +1,3 @@
-<img width="907" height="504" alt="image" src="https://github.com/user-attachments/assets/c7f82264-9b5d-4b80-811f-1287698ba5d9" />
-
 # 📞 Telecom Customer Churn Analysis | SQL
 
 ## 📊 Project Overview
