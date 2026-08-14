@@ -1,6 +1,6 @@
-# 📞 Telecom Customer Churn Analysis | SQL
+# Telecom Customer Churn Analysis | SQL
 
-## 📊 Project Overview
+## Project Overview
 
 This project analyzes **customer churn in a telecommunications business using PostgreSQL/SQL**.
 
@@ -10,7 +10,7 @@ The analysis uses SQL to explore customer demographics, contracts, tenure, charg
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Customer churn is a major challenge for subscription-based businesses because acquiring a new customer can be more expensive than retaining an existing one.
 
@@ -20,7 +20,7 @@ The key business question for this analysis is:
 
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 
 The analysis aims to answer the following questions:
 
@@ -37,7 +37,7 @@ The analysis aims to answer the following questions:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The project uses customer-level telecommunications data containing information about:
 
@@ -76,7 +76,7 @@ The project uses customer-level telecommunications data containing information a
 
 ---
 
-## 🧹 Data Preparation
+## Data Preparation
 
 Before performing the analysis, the dataset was prepared for SQL-based analysis.
 
@@ -92,13 +92,13 @@ Key preparation activities included:
 
 ---
 
-# 🔍 SQL Analysis
+# SQL Analysis
 
 The project uses SQL to investigate churn across multiple dimensions.
 
 ---
 
-## 👥 1. Customer Demographics
+## 1. Customer Demographics
 
 Customer churn was analyzed across demographic attributes such as:
 
@@ -111,7 +111,7 @@ The analysis helps identify whether particular demographic segments experience d
 
 ---
 
-## 📉 2. Overall Churn Analysis
+## 2. Overall Churn Analysis
 
 The first step is to establish the overall churn level.
 
@@ -140,7 +140,7 @@ This establishes the baseline against which different customer segments can be c
 
 ---
 
-## 📑 3. Contract Analysis
+## 3. Contract Analysis
 
 Customers were segmented according to their contract type.
 
@@ -172,7 +172,7 @@ ORDER BY churn_rate DESC;
 
 ---
 
-## ⏳ 4. Tenure Analysis
+## 4. Tenure Analysis
 
 Customer tenure was analyzed to understand whether newer customers behave differently from long-term customers.
 
@@ -187,7 +187,7 @@ This helps identify whether churn risk is concentrated among newer customers.
 
 ---
 
-## 💰 5. Monthly Charges Analysis
+## 5. Monthly Charges Analysis
 
 Monthly charges were analyzed to investigate the relationship between pricing and churn.
 
@@ -202,7 +202,7 @@ This can help determine whether customers paying higher monthly charges have dif
 
 ---
 
-## 💳 6. Payment Method Analysis
+## 6. Payment Method Analysis
 
 Customer churn was analyzed across payment methods.
 
@@ -217,7 +217,7 @@ This can help identify whether particular payment methods are associated with hi
 
 ---
 
-## 🌐 7. Internet & Phone Services
+## 7. Internet & Phone Services
 
 The analysis investigates churn across service subscriptions such as:
 
@@ -241,7 +241,7 @@ The goal is to understand whether service combinations are associated with custo
 
 ---
 
-## 🧩 8. Customer Segmentation
+## 8. Customer Segmentation
 
 Customers are segmented using combinations of important attributes.
 
@@ -258,7 +258,7 @@ This allows the analysis to move beyond individual variables and identify higher
 
 ---
 
-# 🧠 Advanced SQL Techniques
+# Advanced SQL Techniques
 
 This project demonstrates practical SQL techniques used in analytical workflows.
 
@@ -296,7 +296,7 @@ This project demonstrates practical SQL techniques used in analytical workflows.
 
 ---
 
-# 📈 Example Advanced SQL Query
+# Example Advanced SQL Query
 
 A CTE can be used to calculate churn rates by customer segment:
 
@@ -331,27 +331,27 @@ This demonstrates how SQL can be used to transform raw customer records into bus
 
 ---
 
-# 💡 Key Business Insights
+# Key Business Insights
 
 The analysis focuses on identifying patterns such as:
 
-### 🔹 Contract Duration
+### Contract Duration
 
 Customers on shorter-term contracts can be compared with customers on longer-term contracts to identify differences in retention.
 
-### 🔹 Customer Tenure
+### Customer Tenure
 
 Newer customers can be evaluated separately from long-term customers to determine whether early-stage customers require additional retention efforts.
 
-### 🔹 Monthly Charges
+### Monthly Charges
 
 Higher monthly charges can be analyzed alongside churn to identify potentially price-sensitive customer segments.
 
-### 🔹 Payment Method
+### Payment Method
 
 Differences in churn across payment methods can highlight segments that may benefit from payment-process improvements or targeted retention campaigns.
 
-### 🔹 Service Configuration
+### Service Configuration
 
 Customers using different internet, phone, and additional services can be compared to understand how service offerings relate to retention.
 
@@ -359,7 +359,7 @@ Customers using different internet, phone, and additional services can be compar
 
 ---
 
-# 💼 Business Recommendations
+# Business Recommendations
 
 Based on the churn analysis, potential retention strategies include:
 
@@ -395,7 +395,7 @@ The project focuses not only on writing SQL queries but also on understanding **
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 ### Database
 
@@ -419,7 +419,7 @@ The project focuses not only on writing SQL queries but also on understanding **
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 Telecom-Customer-Churn-SQL/
@@ -433,7 +433,7 @@ Telecom-Customer-Churn-SQL/
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 Potential extensions to this project include:
 
@@ -448,7 +448,7 @@ Potential extensions to this project include:
 
 ---
 
-# ⚠️ Analysis Limitations
+# Analysis Limitations
 
 * The analysis identifies associations rather than proving causation.
 * Historical customer behavior may not fully represent future churn.
@@ -457,7 +457,7 @@ Potential extensions to this project include:
 
 ---
 
-# 🎓 Skills Demonstrated
+# Skills Demonstrated
 
 This project demonstrates practical experience in:
 
@@ -478,7 +478,7 @@ This project demonstrates practical experience in:
 
 ---
 
-## 👨‍💻 About
+## About
 
 **Suryansh Sinha**
 
